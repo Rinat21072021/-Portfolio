@@ -1,7 +1,6 @@
 import React from 'react';
 import style from './Email.module.css';
-
-
+// под мобилку, работа с myJobs верстка
 
 function Email() {
 	return (
