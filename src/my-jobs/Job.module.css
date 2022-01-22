@@ -10,9 +10,12 @@
 
 }
 .icon{
-    width: 250px;
+    width: 100%;
     height: 200px;
-    background-color: #eee3e3;
+    /*background-color: #eee3e3;*/
+    background-image: url(https://www.mirf.ru/wp-content/uploads/2017/10/LabRick.png);
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     flex-direction: row;
